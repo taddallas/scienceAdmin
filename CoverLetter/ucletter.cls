@@ -1,11 +1,4 @@
 % UC letterhead class
-%
-% NOTICE: I have made some local changes to this file.  I have sent a
-% patch to the owner, so please get the official version from
-% <URL:http://www.cse.ucsc.edu/~elm/latex.shtml> when it becomes
-% available instead of distributing this file.
-% - Vebjorn Ljosa <ljosa@cs.ucsb.edu>
-%
 % $Log: ucletter.cls,v $
 %
 % Revision 1.6  2016/12/14 tad
